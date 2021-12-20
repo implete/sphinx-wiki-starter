@@ -1,0 +1,4 @@
+sphinx==4.3.1
+myst-parser==0.16.1
+furo==2021.11.23
+sphinx-inline-tabs==2021.8.17b10
